@@ -1,4 +1,4 @@
 # Linear-Regression-with-Python---Coursera-Project
 
 
-I do not own any of the code, only the answers are mine
+These course materials belong entirely to Coursera. The answers are the only things that show my trials.
